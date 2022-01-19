@@ -1,0 +1,9 @@
+db.host = "10.0.0.55"
+db.port = 3306
+db.name.internal = "db­01­internal.local" 
+db.name.external = "db­01.company.tld"
+
+cache.ttl = 3600
+
+debug.enabled = false
+
